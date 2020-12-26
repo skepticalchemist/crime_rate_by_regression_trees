@@ -9,3 +9,14 @@ The importance of specific features was also analyzed and an interesting pattern
 Finally, the performance of the models was measured by generating and analyzing the learning curves.
 
 All that said, for being my first machine learning model I think it was a very positive and exciting experience.
+
+
+Libraries used in this project:
+* `numpy`
+* `pandas`
+* `matplotlib`
+* `seaborn`
+* `sklearn`
+* `graphviz`
+* `pytdotplus`
+* `io`
